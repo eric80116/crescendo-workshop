@@ -1,6 +1,6 @@
 ## Event Engine AWS Account access
 
-Go to the [Event Engine](https://dashboard.eventengine.run/login) and input event hash provided by instructor then click **Accept Terms & Login**.
+Go to the [Event Engine](https://dashboard.eventengine.run/login){:target="_blank"} and input event hash provided by instructor then click **Accept Terms & Login**.
 
 ![01-environment-setup-1](/static/image/01-environment-setup-1.png)
 
@@ -37,9 +37,9 @@ You are redirected to the Team Dashboard. Click on **AWS Console** and **Open Co
 
 ## CloudFormation Deployment Steps
 
-1. Confirm you receive the **Cloudformation Template** .
+1. Confirm you received the **Cloudformation Template** .
 
-2. Click [Cloudformation console link](https://us-east-1.console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/create/template)
+2. Click [Cloudformation console link](https://us-east-1.console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/create/template){:target="_blank"}
 
 3. Select **Upload a template file** and choose the downloaded template `AmazonPersonalizeWorkshop.yaml` as shown in below screenshot and click next.
 
