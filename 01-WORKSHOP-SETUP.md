@@ -38,9 +38,9 @@ You are redirected to the Team Dashboard. Click on **AWS Console** and **Open Co
 
 ## CloudFormation Deployment Steps
 
-1. Download the **Cloudformation Template** previously sent by the instructor.
+1. Download and unzip the **Workshop_material.zip** previously sent by the instructor.
 
-2. Click [Cloudformation console link](https://us-east-1.console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/create/template){:target="_blank"}
+2. Click [Cloudformation console link](https://us-east-1.console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/create/template)
 
 3. Select **Upload a template file** and choose the downloaded template `AmazonPersonalizeWorkshop.yaml` as shown in below screenshot and click next.
 
