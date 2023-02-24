@@ -27,7 +27,6 @@ In this workshop, you will build an solution with aws-user-personalization recip
 
 ![06-solution-and-campaign-6](/static/image/06-solution-and-campaign-6.png)
 
-> **Note**
-
+> **Note**  
 > You need to wait until the solution version status is active. It would take around 1 hour to build the solution, feel free to grab a cup of coffee!
 

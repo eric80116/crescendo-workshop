@@ -32,8 +32,7 @@ You are redirected to the Team Dashboard. Click on **AWS Console** and **Open Co
 
 ![01-environment-setup-9](/static/image/01-environment-setup-9.png)
 
-> **Note**
-
+> **Note**  
 > You should see the account like TeamRole/MasterKey@xxxx-xxxx-xxxx on the top-right.
 
 

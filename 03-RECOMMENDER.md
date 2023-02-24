@@ -29,6 +29,5 @@ Let's keep the default setting.
 
 ![05-recommender-4](/static/image/05-recommender-4.png)
 
-> **Note**
-
+> **Note**  
 > It would take around 1 hour to build the recommender, you can keep moving on next step
