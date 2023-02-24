@@ -1,6 +1,6 @@
 ## Event Engine AWS Account access
 
-Go to the [Event Engine](https://dashboard.eventengine.run/login){:target="_blank"} and input event hash provided by instructor then click **Accept Terms & Login**.
+Go to the [Event Engine](https://dashboard.eventengine.run/login){target="_blank"} and input event hash provided by instructor then click **Accept Terms & Login**.
 
 ![01-environment-setup-1](/static/image/01-environment-setup-1.png)
 
@@ -37,7 +37,7 @@ You are redirected to the Team Dashboard. Click on **AWS Console** and **Open Co
 
 ## CloudFormation Deployment Steps
 
-1. Confirm you received the **Cloudformation Template** .
+1. Download the **Cloudformation Template** previously sent by the instructor.
 
 2. Click [Cloudformation console link](https://us-east-1.console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/create/template){:target="_blank"}
 
@@ -66,7 +66,7 @@ You are redirected to the Team Dashboard. Click on **AWS Console** and **Open Co
 
 ![02-workshop-setup-6](/static/image/02-workshop-setup-6.png)
 
-9. Download **Workshop_Data.zip** then unzip the file.
+9. Download **Workshop_Data.zip** previously sent by the instructor then unzip the file.
 
 10. Unzip the file then you can either drag and drop or click Upload button to upload the folders in **Workshop_Data** to the S3 bucket.
 

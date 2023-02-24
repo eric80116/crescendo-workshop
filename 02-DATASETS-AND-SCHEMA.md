@@ -1,6 +1,6 @@
 ## Create dataset group
 
-1. Go to [Personalize](https://us-east-1.console.aws.amazon.com/personalize/home?region=us-east-1){:target="_blank"} and click **Create dataset group** on the left silde menu.
+1. Go to [Personalize](https://us-east-1.console.aws.amazon.com/personalize/home?region=us-east-1){target="_blank"} and click **Create dataset group** on the left silde menu.
 2. Type your dataset group name and select **E-commerce** domain datast group and click **create dataset group and continue**.
 
 ![03-dataset-group-1](/static/image/03-dataset-group-1.png)
