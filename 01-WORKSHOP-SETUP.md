@@ -1,6 +1,6 @@
 ## Event Engine AWS Account access
 
-Go to the [Event Engine](https://dashboard.eventengine.run/login){target="_blank"} and input event hash provided by instructor then click **Accept Terms & Login**.
+Go to the [Event Engine](https://dashboard.eventengine.run/login) and input event hash provided by instructor then click **Accept Terms & Login**.
 
 ![01-environment-setup-1](/static/image/01-environment-setup-1.png)
 
