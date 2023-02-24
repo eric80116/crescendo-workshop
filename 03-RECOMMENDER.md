@@ -1,4 +1,4 @@
-Amazon Personalize customers with e-commerce and video personalization use cases can simply select the recommenders that map to the user experience they want to create. 
+With e-commerce and video personalization use cases, users can simply select the recommenders that map to the user experience they want to create. 
 
 ## Create recommender
 

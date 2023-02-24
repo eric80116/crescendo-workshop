@@ -1,4 +1,4 @@
-A Solution refers to the combination of an Amazon Personalize recipe, customized parameters, and one or more solution versions (trained models).
+A Solution refers to the combination of an Amazon Personalize recipe, customized parameters, and one or more solution versions.
 
 ## Create solution
 
