@@ -64,6 +64,7 @@ e.g.  s3://bucket-personalize-xxxxxxxxxxxx/input/interaction/
 ![04-dataset-and-schema-5](/static/image/04-dataset-and-schema-5.png)
 
 > **Note**
+
 > It would take some time for checking your dataset and schema, you can keep moving on next step to import user dataset
 
 ## Create User dataset
@@ -117,6 +118,7 @@ e.g.  s3://bucket-personalize-xxxxxxxxxxxx/input/user/
 ![04-dataset-and-schema-10](/static/image/04-dataset-and-schema-10.png)
 
 > **Note**
+
 > It would take some time for checking your dataset and schema, you can keep moving on next step to import item dataset
 
 ## Create Item dataset
