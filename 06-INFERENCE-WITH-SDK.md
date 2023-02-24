@@ -26,8 +26,10 @@ aws s3 sync s3://bucket-personalize-XXXXXXXXXXXX/inference-by-sdk inference-by-s
 
 1. Click the **inference-by-sdk** folder and open **crescendolab_personalize_realtime_inference.ipynb** notebook.
 
+
 > **Note**  
 > If you got the **'Kernel not found'** message, please select **conda_python3** from drop-down list then click **Set Kernel**
+
 
 2. At the first cell, replace the \<userID\> to `146456223` and \<recommendARN\> to the recommenderARN you previous record in the clipboard.
 
@@ -49,8 +51,10 @@ aws s3 sync s3://bucket-personalize-XXXXXXXXXXXX/inference-by-sdk inference-by-s
 
 1. Back to jupyter home page then click the **inference-by-sdk** folder and open **crescendolab_personalize_batch_inference.ipynb** notebook.
 
+
 > **Note**  
 > If you got the **'Kernel not found'** message, please select **conda_python3** from drop-down list then click **Set Kernel**
+
 
 2. At the first cell, replace the \<solutionArn\>, \<roleArn\> and the bucket name of jobInputPath and jobOutputPath with the information you previously record in the clipboard.
 
