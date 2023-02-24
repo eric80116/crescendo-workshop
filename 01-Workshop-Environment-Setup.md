@@ -37,8 +37,7 @@ You are redirected to the Team Dashboard. Click on **AWS Console** and **Open Co
 
 ## CloudFormation Deployment Steps
 
-1. Click [Cloudformation Template](/static/AmazonPersonalizeWorkshop.yaml)  to download CloudFormation template.
-
+1. Confirm you receive the **Cloudformation Template** .
 
 2. Click [Cloudformation console link](https://us-east-1.console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/create/template)
 
@@ -67,7 +66,7 @@ You are redirected to the Team Dashboard. Click on **AWS Console** and **Open Co
 
 ![02-workshop-setup-6](/static/image/02-workshop-setup-6.png)
 
-9. Click :button[Workshop Sample Data]{href=":assetUrl{path="/personalize-workshop-assets/Workshop_Data.zip" source=s3}" action="download"} then unzip the file.
+9. Download **Workshop_Data.zip** then unzip the file.
 
 10. Unzip the file then you can either drag and drop or click Upload button to upload the folders in **Workshop_Data** to the S3 bucket.
 

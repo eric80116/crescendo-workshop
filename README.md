@@ -1,8 +1,3 @@
----
-title: "Crescendo Personalize Workshop"
-weight: 0
----
-
 # Welcome
 
 Amazon Personalize enables developers to build applications with the same machine learning (ML) technology used by Amazon.com for real-time personalized recommendations – no ML expertise required.
@@ -22,13 +17,7 @@ In this workshop, you will learn how to create an Amazon Personalize deployment 
 5. Event tracking
 
 
-::alert[For this workshop, you will use AWS account provided environment. **DO NOT** use your personal or business account to run this workshop to prevent the extra cost on your account.]{header="Important" type="warning"}
-
-### Expected duration
-6 hours
+**For this workshop, you will use AWS account provided environment. DO NOT use your personal or business account to run this workshop to prevent the extra cost on your account.**
 
 
-### Level
-
-300
 
