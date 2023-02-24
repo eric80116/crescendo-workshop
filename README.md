@@ -17,7 +17,7 @@ In this workshop, you will learn how to create an Amazon Personalize deployment 
 5. Event tracking
 
 
-**For this workshop, you will use AWS account provided environment. DO NOT use your personal or business account to run this workshop to prevent the extra cost on your account.**
+**For this workshop, you will use AWS instructors provided environment. DO NOT use your personal or business account to run this workshop to prevent the extra cost on your account.**
 
 
 
