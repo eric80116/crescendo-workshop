@@ -12,9 +12,7 @@ In this workshop, you will build an e-commerce recommender.
 3. There are some advance configurations under **Recommender configurations - optional**
 
 * Minimum recommendation requests per second: Configure the baseline recommendation request throughput provisioned by Amazon Personalize
-
 * Emphasis on exploring less relevent items: Configure how frequently recommendations include items with less interactions data or relevance
-
 * Exploration item age cut off: Define the scope of item exploration in days since the latest interaction
 
 Let's keep the default setting.
@@ -31,4 +29,5 @@ Let's keep the default setting.
 
 ![05-recommender-4](/static/image/05-recommender-4.png)
 
-**It would take around 1 hour to build the recommender, you can keep moving on next step**
+> **Note**
+> It would take around 1 hour to build the recommender, you can keep moving on next step

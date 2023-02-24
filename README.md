@@ -16,8 +16,8 @@ In this workshop, you will learn how to create an Amazon Personalize deployment 
 4. Real-time and batch inference
 5. Event tracking
 
-
-**For this workshop, you will use AWS instructors provided environment. DO NOT use your personal or business account to run this workshop to prevent the extra cost on your account.**
+> **Warning**
+> For this workshop, you will use AWS instructors provided environment. **DO NOT** use your personal or business account to run this workshop to prevent the extra cost on your account.
 
 
 
