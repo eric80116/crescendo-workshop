@@ -40,7 +40,7 @@ You are redirected to the Team Dashboard. Click on **AWS Console** and **Open Co
 
 1. Download and unzip the **Workshop_material.zip** previously sent by the instructor.
 
-2. Click [Cloudformation console link](https://us-east-1.console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/create/template)
+2. Right click [Cloudformation console link](https://us-east-1.console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/create/template) and open link in new tab.
 
 3. Select **Upload a template file** and choose the downloaded template `AmazonPersonalizeWorkshop.yaml` as shown in below screenshot and click next.
 
@@ -58,25 +58,27 @@ You are redirected to the Team Dashboard. Click on **AWS Console** and **Open Co
 
 ![02-workshop-setup-4](/static/image/02-workshop-setup-4.png)
 
-7. Go to the [IAM](https://console.aws.amazon.com/iamv2/home#/roles) and check the role `AmazonPersonalizeWorkshop-PersonalizeIamRole-XXXXXXXXXXXX` be created. Click into your role and **copy the role ARN to the clipboard** since you will use it in later chapters.
+7. Right click [IAM](https://console.aws.amazon.com/iamv2/home#/roles) to open in new tab and check the role `AmazonPersonalizeWorkshop-PersonalizeIamRole-XXXXXXXXXXXX` be created. Click into your role and **copy the role ARN to the clipboard** since you will use it in later chapters.
 
 ![02-workshop-setup-5](/static/image/02-workshop-setup-5.png)
 ![02-workshop-setup-5-1](/static/image/02-workshop-setup-5-1.png)
 
-8. Go to the [S3](https://console.aws.amazon.com/s3/buckets?region=us-east-1) and check the bucket `bucket-personalize-XXXXXXXXXXXX` be created. **Copy the bucket name to the clipboard** since you will use it in later chapters.
+8. Right click [S3](https://console.aws.amazon.com/s3/buckets?region=us-east-1) to open in new tab and check the bucket `bucket-personalize-XXXXXXXXXXXX` be created. **Copy the bucket name to the clipboard** since you will use it in later chapters.
 
 ![02-workshop-setup-6](/static/image/02-workshop-setup-6.png)
 
-9. Download **Workshop_Data.zip** previously sent by the instructor then unzip the file.
+9. Open **Workshop_Data** folder previously sent by the instructor.
 
-10. Unzip the file then you can either drag and drop or click Upload button to upload the folders in **Workshop_Data** to the S3 bucket.
+10. You can either drag and drop or click Upload button to upload the folders in **Workshop_Data** to the S3 bucket.
 
 ![02-workshop-setup-7](/static/image/02-workshop-setup-7.png)
 
-11. Navigate to the [SageMaker notebook instance](https://us-east-1.console.aws.amazon.com/sagemaker/home?region=us-east-1#/notebook-instances) to check the instance be provisioned successfully.
+11. Right click [SageMaker notebook instance](https://us-east-1.console.aws.amazon.com/sagemaker/home?region=us-east-1#/notebook-instances) to open in new tab and check the instance be provisioned successfully.
 
 ![02-workshop-setup-8](/static/image/02-workshop-setup-8.png)
 
 
 **Now your environment are setted!**
+
+Move on to [02-DATASETS-AND_SCHEMA](02-DATASETS-AND_SCHEMA.md)
 

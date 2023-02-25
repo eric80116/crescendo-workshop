@@ -30,3 +30,4 @@ In this workshop, you will build an solution with aws-user-personalization recip
 > **Note**  
 > You need to wait until the solution version status is active. It would take around 1 hour to build the solution, feel free to grab a cup of coffee!
 
+Move on to [05-INFERENCE-WITH-CONSOLE](05-INFERENCE-WITH-CONSOLE.md)

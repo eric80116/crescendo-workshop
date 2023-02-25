@@ -2,7 +2,7 @@ In this chapter, users will use pre-provisioned SageMaker notebook instance to r
 
 ## Environemt Setting
 
-1. Navigate to the [SageMaker notebook instance](https://us-east-1.console.aws.amazon.com/sagemaker/home?region=us-east-1#/notebook-instances) and you can see a pre-provisioned notebook instance named **AmazonPersonalizeWorkshop** then click **Open Jupyter**
+1. Right click [SageMaker notebook instance](https://us-east-1.console.aws.amazon.com/sagemaker/home?region=us-east-1#/notebook-instances) to open in new tab and you can see a pre-provisioned notebook instance named **AmazonPersonalizeWorkshop** then click **Open Jupyter**
 
 ![11-inference-by-sdk-1](/static/image/11-inference-by-sdk-1.png)
 
@@ -74,7 +74,6 @@ aws s3 sync s3://bucket-personalize-XXXXXXXXXXXX/inference-by-sdk inference-by-s
 
 ![11-inference-by-sdk-13](/static/image/11-inference-by-sdk-13.png)
 
-
-
+Move on to [07-EVENT-TRACKING](07-EVENT-TRACKING.md)
 
 

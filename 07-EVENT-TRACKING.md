@@ -3,7 +3,7 @@ In this chapter, you will build a event tracker first then custom a pipeline to 
 
 ![09-event-tracking-1](/static/image/09-event-tracking-1.png)
 
-1. Go to [Personalize](https://us-east-1.console.aws.amazon.com/personalize/home?region=us-east-1) and select **Manage dataset groups** on the left silde menu and click your dataset group. 
+1. Right click [Personalize](https://us-east-1.console.aws.amazon.com/personalize/home?region=us-east-1) to open in new tab and select **Manage dataset groups** on the left silde menu and click your dataset group. 
 
 2. You will nevigate to the Overview page then click the **Create event tracker** in the Create datasets block.
 
@@ -21,7 +21,7 @@ In this chapter, you will build a event tracker first then custom a pipeline to 
 
 ![09-event-tracking-5](/static/image/09-event-tracking-5.png)
 
-6. Go to [AWS Lambda](https://us-east-1.console.aws.amazon.com/lambda/home?region=us-east-1#functions) functions page.
+6. Right click [AWS Lambda](https://us-east-1.console.aws.amazon.com/lambda/home?region=us-east-1#functions) to open functions page in new tab.
 
 7. Click **Create function** on the top-right then configure with following settings:
 * Select **Author from scratch**
@@ -124,7 +124,7 @@ def lambda_handler(event, context):
 
 ![09-event-tracking-18](/static/image/09-event-tracking-18.png)
 
-23. Go to [Amazon API Gateway](https://us-east-1.console.aws.amazon.com/apigateway/main/apis?region=us-east-1)
+23. Right click [Amazon API Gateway](https://us-east-1.console.aws.amazon.com/apigateway/main/apis?region=us-east-1) to open in new tab
 
 24. In the **REST API** section, click **Build**
 
@@ -360,7 +360,7 @@ def lambda_handler(event, context):
 ![08-front-end-integration-41](/static/image/08-front-end-integration-41.png)
 
 
-58. Let's go to [AWS Lambda](https://us-east-1.console.aws.amazon.com/lambda/home?region=us-east-1#functions) to check our Lambda function be triggered or not
+58. Let's go back [AWS Lambda](https://us-east-1.console.aws.amazon.com/lambda/home?region=us-east-1#functions) to check our Lambda function be triggered or not
 
 59. Click the **PutEvent-Function** you previously created.
 
@@ -378,7 +378,7 @@ def lambda_handler(event, context):
 
 63. Now, you can try get recommendation for user 146456223 by the console or Python SDK again. The recommendation list should be changed.
 
-
+**Congratulation! You finish the workshop**
 
 
 

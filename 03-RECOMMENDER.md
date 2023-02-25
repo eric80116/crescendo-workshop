@@ -31,3 +31,5 @@ Let's keep the default setting.
 
 > **Note**  
 > It would take around 1 hour to build the recommender, you can keep moving on next step
+
+Move on to [04-SOLUTION](04-SOLUTION.md)

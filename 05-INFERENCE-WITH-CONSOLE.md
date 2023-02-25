@@ -68,7 +68,7 @@ Personalize can support batch inference to do user segmentations. In this worksh
 
 ![07-real-time-and-batch-inference-16](/static/image/07-real-time-and-batch-inference-16.png)
 
-
+Move on to [06-INFERENCE-WITH-SDK](06-INFERENCE-WITH-SDK.md)
 
 
 
