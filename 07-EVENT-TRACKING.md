@@ -379,6 +379,7 @@ def lambda_handler(event, context):
 63. Now, you can try get recommendation for user 146456223 by the console or Python SDK again. The recommendation list should be changed.
 
 **Congratulation! You finished the workshop!**
+
 You can get more detail about Personalize from the [documentation](https://docs.aws.amazon.com/personalize/latest/dg/what-is-personalize.html). 
 If you are interested in the detail about API Gateway and Kinesis integration, please reference the [documentation](https://docs.aws.amazon.com/zh_tw/apigateway/latest/developerguide/integrating-api-with-aws-services-kinesis.html)
 
