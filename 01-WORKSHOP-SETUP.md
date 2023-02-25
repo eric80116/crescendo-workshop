@@ -80,5 +80,5 @@ You are redirected to the Team Dashboard. Click on **AWS Console** and **Open Co
 
 **Now your environment are setted!**
 
-Move on to [02-DATASETS-AND_SCHEMA](02-DATASETS-AND_SCHEMA.md)
+Move on to [02-DATASETS-AND-SCHEMA](02-DATASETS-AND-SCHEMA.md)
 
