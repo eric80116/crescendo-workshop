@@ -49,7 +49,7 @@ Now, you will be switch to Code source page automatically.
 ![09-event-tracking-9](/static/image/09-event-tracking-9.png)
 
 12. Switch back to the **Code** tab.
-13. Replace the defualt code with the following code. This code is follow with [MIT-0 license](:assetUrl{path="/personalize-workshop/LICENSE" source=s3}).
+13. Replace the defualt code with the following code.
 ```
 import json
 import boto3
@@ -89,7 +89,7 @@ def lambda_handler(event, context):
 
 ![09-event-tracking-11](/static/image/09-event-tracking-11.png)
 
-14. Navigate to the [Kinesis Data Streams](https://us-east-1.console.aws.amazon.com/kinesis/home?region=us-east-1#/streams/list) and click the **Create data stream** on the top-right.
+14. Right click [Kinesis Data Streams](https://us-east-1.console.aws.amazon.com/kinesis/home?region=us-east-1#/streams/list) to open in new tab and click the **Create data stream** on the top-right.
 
 ![09-event-tracking-12](/static/image/09-event-tracking-12.png)
 
@@ -211,7 +211,7 @@ def lambda_handler(event, context):
 
 39. Let's move on. Select the **/stream** on the left hierarchy and drop down the **Actions** and select **Create Resource**.
 
-40. Type `streams-name` as **Resouce Name**, type `{stream-name}` **Resource Path** and tick **Enable API Gateway CORS** then click **Create Resource**
+40. Type `stream-name` as **Resouce Name**, type `{stream-name}` **Resource Path** and tick **Enable API Gateway CORS** then click **Create Resource**
 
 ![08-front-end-integration-33](/static/image/08-front-end-integration-33.png)
 
@@ -378,7 +378,7 @@ def lambda_handler(event, context):
 
 63. Now, you can try get recommendation for user 146456223 by the console or Python SDK again. The recommendation list should be changed.
 
-**Congratulation! You finish the workshop**
+**Congratulation! You finished the workshop!**
 
 
 
